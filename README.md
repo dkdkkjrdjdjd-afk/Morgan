@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=🇲🇽+México" />
+### 🇲🇽 Mexico
 
 <br>
 
