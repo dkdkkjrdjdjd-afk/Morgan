@@ -1,1 +1,5 @@
-
+body {
+    background:
+    radial-gradient(circle at top, #ff000033, transparent 40%),
+    #050505;
+}
